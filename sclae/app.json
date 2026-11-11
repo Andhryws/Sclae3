@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "sclae",
+    "slug": "sclae",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "134663dc-a01d-4f30-bb71-582c1f0c27d3"
+      }
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
